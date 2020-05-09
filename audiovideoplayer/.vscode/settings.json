@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ctime": "c",
+        "yvals.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
